@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254802772030",
+    "firebase_url": "https://ionic3-push-d7b4c.firebaseio.com",
+    "project_id": "ionic3-push-d7b4c",
+    "storage_bucket": "ionic3-push-d7b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254802772030:android:f9bf34f62c231fdb",
+        "android_client_info": {
+          "package_name": "br.com.henriquemontenegro.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254802772030-ohbgs1bb65l48ll05ar59g5mc0dld6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vr6t5KJVScoHmkke5-a6JlZlQ7-sPmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254802772030-ohbgs1bb65l48ll05ar59g5mc0dld6u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
