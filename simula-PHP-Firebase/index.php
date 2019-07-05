@@ -27,8 +27,7 @@ function sendPushNotification($to = '', $data = array()) {
 $to = 'cWxHpgJ92bI:APA91bEVcR2QpC602E4ayXAyMFH3WUyu_HTG5kmH7gQxQoqZXgcKEPVXHfnw0IpMSeK-Ylom4IGWTRhRTIZAYTUMQxgxe0CW4nIW9RgwVKu5fSb8lofUKYObezUrDlpX1CUSoJTss9l4';
 $data = array(
     'title' => 'Instituído através da Lei nº. 6.321, de 14 de abril de', // 54 caracteres MotoG5S
-    'body' => 'Instituído através da Lei nº. 6.321, de 14 de abril de 1976, o PAT beneficia, prioritariamente, ao atendimento dos trabalhadores de baixa renda, isto é, aqueles que ganham até cinco salários mínimos mensais. A alimentação adequada inserida nos propósitos da segurança alimentar e nutricional é objetivo que se faz presente no PAT As empresas que fornecem o benefício da alimentação aos seus funcionários podem optar por esse sistema, obtendo, inclusive, benefícios fiscais. Conheça mais sobre o Programa no endereço www.mte.gov.br. Instituído através da Lei nº. 6.321, de 14 de abril de123456789', // 595 caracteres MotoG5S
-    'icon' => 'myicon'
+    'body' => 'Instituído através da Lei nº. 6.321, de 14 de abril de 1976, o PAT beneficia, prioritariamente, ao atendimento dos trabalhadores de baixa renda, isto é, aqueles que ganham até cinco salários mínimos mensais. A alimentação adequada inserida nos propósitos da segurança alimentar e nutricional é objetivo que se faz presente no PAT As empresas que fornecem o benefício da alimentação aos seus funcionários podem optar por esse sistema, obtendo, inclusive, benefícios fiscais. Conheça mais sobre o Programa no endereço www.mte.gov.br. Instituído através da Lei nº. 6.321, de 14 de abril de123456789' // 595 caracteres MotoG5S
 );
 
 echo sendPushNotification($to, $data);
